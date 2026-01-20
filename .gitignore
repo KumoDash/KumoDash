@@ -1,0 +1,23 @@
+# Internal docs (private)
+/docs/
+
+# Build outputs
+/target/
+/dist/
+/node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Environment
+.env
+.env.local
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
